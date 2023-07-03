@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.bedu.java.backend.postworII.PostworkII.business.SomeBusinessLogicMockTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-03T20:57:42" hostname="P211400MJ0ES0Q5" time="0.623">
+  <properties/>
+  <testcase name="calculateSubsUsingDataService_basic()" classname="org.bedu.java.backend.postworII.PostworkII.business.SomeBusinessLogicMockTest" time="0.623"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
